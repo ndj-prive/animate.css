@@ -50,7 +50,7 @@ flip
 flipInX
 flipOutX
 flipInY
-flipOutY
+flipOufghfdhdfhtY
 
 ####Fading entrances:
 fadeIn
